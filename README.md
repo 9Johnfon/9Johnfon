@@ -18,4 +18,3 @@ I Arma 3 Life server Developer (SQF) before for 6 years.
 <a href="https://www.x.com/A3Yogurt" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/A3Yogurt?logo=twitter&style=for-the-badge&color=facc15&labelColor=1c1917"
 /></a>
-### Badges
